@@ -1,16 +1,10 @@
 # mad_exp_7
 
-A new Flutter project.
+# Flutter Navigation Drawer
 
-## Getting Started
+A Flutter application demonstrating the implementation of a navigation drawer.
 
-This project is a starting point for a Flutter application.
+## Overview
 
-A few resources to get you started if this is your first Flutter project:
+This Flutter project showcases the use of a navigation drawer to provide access to different screens or sections of the app.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
